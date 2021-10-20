@@ -3,5 +3,5 @@
 - :mag: I’m currently work as a freelancer and looking for work
 - 💞️ I’m looking to collaborate on Azure, AWS, DEVOPS, dotnet core, xamarin, react, react-native etc
 - :email: Reach me at mohtishamzubair@hotmail.com  
-- :phone: +92 333 301 2454
+- :calling: +92 333 301 2454
 - :information_source: https://pk.linkedin.com/in/mohtishamzubair
